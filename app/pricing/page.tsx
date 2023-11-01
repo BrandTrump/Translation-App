@@ -12,7 +12,7 @@ function PricingPage() {
           <p className="mt-2 text-4xl font-bold tracking-tight text-white sm:text-5xl">
             The right price for you,{" "}
             <br className="hidden sm:inline lg:hidden" />
-            whoever you area
+            whoever you are
           </p>
         </div>
         <div className="relative mt-6">
